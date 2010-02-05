@@ -1,4 +1,4 @@
-## Interface: 30000
+## Interface: 30300
 ## Title: amnib
 ## Notes: Amnith's invite broadcaster
 ## Author: amnith
