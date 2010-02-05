@@ -1,0 +1,7 @@
+## Interface: 30000
+## Title: amnib
+## Notes: Amnith's invite broadcaster
+## Author: amnith
+## Version: 1.2.2
+## SavedVariables: amnibdb
+amnib.lua
