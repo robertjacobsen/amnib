@@ -35,9 +35,9 @@ local version = "1.2.2"
 
 local inviter = CreateFrame"Frame"
 inviter:RegisterEvent"CHAT_MSG_WHISPER"
-inviter:SetScript("OnEvent", function(self)
-	if arg1 == "invite" and acceptInvites then
-		InviteUnit(arg2)
+inviter:SetScript("OnEvent", function(self, event, what, who)
+	if what == "invite" and acceptInvites then
+		InviteUnit(who)
 	end
 end)
 
