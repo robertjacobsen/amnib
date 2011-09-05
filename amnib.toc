@@ -1,7 +1,7 @@
-## Interface: 40000
+## Interface: 40200
 ## Title: amnib
 ## Notes: Amnith's invite broadcaster
 ## Author: amnith
-## Version: 4.0 
+## Version: 4.1 
 ## SavedVariables: amnibdb
 amnib.lua
