@@ -2,6 +2,6 @@
 ## Title: amnib
 ## Notes: Amnith's invite broadcaster
 ## Author: amnith
-## Version: 4.1 
+## Version: 4.2 
 ## SavedVariables: amnibdb
 amnib.lua
